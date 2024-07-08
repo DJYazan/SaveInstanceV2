@@ -140,7 +140,7 @@ if getscriptbytecode then
 	if
 		pcall(function()
 			decompiler_source =
-				game:HttpGet("https://raw.githubusercontent.com/w-a-e/Advanced-Decompiler-V3/main/init.lua", true)
+				game:HttpGet("https://raw.githubusercontent.com/DJYazan/Advanced-Decompiler-V3/main/init.lua", true)
 		end)
 	then
 		load_decompiler = function(decomptimeout)
