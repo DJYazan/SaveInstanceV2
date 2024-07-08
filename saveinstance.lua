@@ -1390,7 +1390,7 @@ local IgnoreSharedStrings = OPTIONS.IgnoreSharedStrings
 		end
 		if OPTIONS.ReadMe then
 			saveextra("README", nil, "Script", "--[[\n" .. [[
-			Thank you for using SynSaveInstance Revival.
+			Thank you for using  @robloxluau's edited SynSaveInstance Revival.
 			We recommended to save the game right away to take advantage of the binary format (if you didn't save in binary) AND to preserve values of certain properties if you used IgnoreDefaultProperties setting (as they might change in the future).
 			If your player cannot spawn into the game, please move the scripts in StarterPlayer elsewhere. (This is done by default)
 			If the chat system does not work, please use the explorer and delete everything inside the Chat service. 
